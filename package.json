@@ -1,0 +1,28 @@
+{
+  "name": "anydoor-my",
+  "version": "1.0.0",
+  "description": "anydoor4\r ##使用方法",
+  "main": "build/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint --fix .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jettfeng/anydoor-my.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jettfeng/anydoor-my/issues"
+  },
+  "homepage": "https://github.com/Jettfeng/anydoor-my#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
